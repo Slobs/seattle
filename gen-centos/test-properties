@@ -1,0 +1,9 @@
+chef_client_rpm=http://plinmgr1v.standardbank.co.za/repo/software/chef12/chef-12.0.0-1.x86_64.rpm
+cpu=1
+gateway=10.145.21.1
+iprange=10.145.21.
+memory=4096
+nameserver=10.208.25.59
+netmask=255.255.255.0
+profile=0INST-CENTOS66-Nonprod-SDC3-VLAN2573
+vmname_prefix=dlinchfdel
